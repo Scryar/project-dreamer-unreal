@@ -9,4 +9,3 @@ Current goals:
 - Test Live2D integration
 - Build atmosphere (lighting, rain, water)
 - Compare against the Unity implementation
-TEST
